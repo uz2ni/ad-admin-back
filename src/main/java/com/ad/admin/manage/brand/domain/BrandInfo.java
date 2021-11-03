@@ -1,6 +1,5 @@
-package com.ad.admin.domain.manage.brand;
+package com.ad.admin.manage.brand.domain;
 
-import lombok.Builder;
 import lombok.Getter;
 
 @Getter

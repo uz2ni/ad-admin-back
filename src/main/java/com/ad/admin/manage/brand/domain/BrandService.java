@@ -1,4 +1,4 @@
-package com.ad.admin.domain.manage.brand;
+package com.ad.admin.manage.brand.domain;
 
 public interface BrandService {
     // Command(명령), Criteria(조회) --- Info(리턴)

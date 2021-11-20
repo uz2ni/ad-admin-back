@@ -1,10 +1,10 @@
-package com.ad.admin;
+package com.spring.tester;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AdAdminBackApplicationTests {
+class SpringBootTesterApplicationTests {
 
     @Test
     void contextLoads() {

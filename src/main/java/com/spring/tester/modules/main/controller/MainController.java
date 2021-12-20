@@ -42,4 +42,9 @@ public class MainController {
 
         return "회원가입 완료";
     }
+
+    @GetMapping("/api/v1/user")
+    public String getUser() {
+        return "user";
+    }
 }
